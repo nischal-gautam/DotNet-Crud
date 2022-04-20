@@ -1,0 +1,13 @@
+C:\Dot net projects\tutorial dot net\Student_Interface\bin\Debug\netcoreapp3.1\Student_Interface.deps.json
+C:\Dot net projects\tutorial dot net\Student_Interface\bin\Debug\netcoreapp3.1\Student_Interface.dll
+C:\Dot net projects\tutorial dot net\Student_Interface\bin\Debug\netcoreapp3.1\Student_Interface.pdb
+C:\Dot net projects\tutorial dot net\Student_Interface\bin\Debug\netcoreapp3.1\Student_Entity.dll
+C:\Dot net projects\tutorial dot net\Student_Interface\bin\Debug\netcoreapp3.1\Student_Entity.pdb
+C:\Dot net projects\tutorial dot net\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.csproj.AssemblyReference.cache
+C:\Dot net projects\tutorial dot net\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot net projects\tutorial dot net\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.AssemblyInfoInputs.cache
+C:\Dot net projects\tutorial dot net\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.AssemblyInfo.cs
+C:\Dot net projects\tutorial dot net\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.csproj.CoreCompileInputs.cache
+C:\Dot net projects\tutorial dot net\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.csproj.CopyComplete
+C:\Dot net projects\tutorial dot net\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.dll
+C:\Dot net projects\tutorial dot net\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.pdb

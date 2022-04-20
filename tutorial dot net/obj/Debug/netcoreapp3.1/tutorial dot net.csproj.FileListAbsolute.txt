@@ -1,0 +1,127 @@
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\tutorial dot net.exe
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\tutorial dot net.deps.json
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\tutorial dot net.runtimeconfig.json
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\tutorial dot net.runtimeconfig.dev.json
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\tutorial dot net.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\tutorial dot net.pdb
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\tutorial dot net.Views.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\tutorial dot net.Views.pdb
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Student_Entity.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Student_Interface.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Student_Repository.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Student_Interface.pdb
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Student_Repository.pdb
+C:\Dot net projects\tutorial dot net\tutorial dot net\bin\Debug\netcoreapp3.1\Student_Entity.pdb
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\tutorial dot net.csproj.AssemblyReference.cache
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\tutorial dot net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\tutorial dot net.AssemblyInfoInputs.cache
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\tutorial dot net.AssemblyInfo.cs
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\tutorial dot net.csproj.CoreCompileInputs.cache
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\tutorial dot net.MvcApplicationPartsAssemblyInfo.cache
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\tutorial dot net.RazorAssemblyInfo.cache
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\tutorial dot net.RazorAssemblyInfo.cs
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\staticwebassets\tutorial dot net.StaticWebAssets.Manifest.cache
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\tutorial dot net.TagHelpers.input.cache
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\tutorial dot net.TagHelpers.output.cache
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\tutorial dot net.RazorCoreGenerate.cache
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\Razor\Areas\Shared\_Layout.cshtml.g.cs
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\Razor\Areas\Student\Views\Entry\Index.cshtml.g.cs
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\tutorial dot net.RazorTargetAssemblyInfo.cache
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\tutorial dot net.RazorTargetAssemblyInfo.cs
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\tutorial dot net.Views.pdb
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\tutorial dot net.csproj.CopyComplete
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\tutorial dot net.dll
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\tutorial dot net.pdb
+C:\Dot net projects\tutorial dot net\tutorial dot net\obj\Debug\netcoreapp3.1\tutorial dot net.genruntimeconfig.cache

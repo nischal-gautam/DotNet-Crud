@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewData["Title"] = "Student Entry";
+    Layout = "~/Areas/Shared/_Layout.cshtml";
+}
+<form>
+
+    <div class="justify-content-center" id="StudentDiv">
+        <div class="form-group">
+            <label for="StudentID">ID *</label>
+            <input type="text" class="form-control form-control-sm col-3" id="StudentID" data-bind="value:StudentID" placeholder="StudentID">
+        </div>
+        <div class="form-group">
+            <label for="StudentName">Name *</label>
+            <input type="text" class="form-control form-control-sm col-3" placeholder="Input Name of Student" data-bind="value: StudentName" id="StudentName">
+        </div>
+        <div class="form-group">
+            <label for="Age">Age *</label>
+            <input type="text" class="form-control form-control-sm col-3" placeholder="Input Age of Student" data-bind="value: StudentAge" id="StudentAge">
+        </div>
+        <div class="form-group">
+            <label for="StudentClass">Student Class *</label>
+            <input type="text" class="form-control form-control-sm col-3" id="StudentClass"  data-bind="value: StudentClass" placeholder="Input Class of Student">
+        </div>
+        <div class="form-group">
+            <label for="StudentRoll">Student Roll *</label>
+            <input type="text" class="form-control form-control-sm col-3" id="StudentRoll" data-bind="value: StudentRoll" placeholder="Input Roll of Student">
+        </div>
+
+        <hr class="my-1" />
+        <div class="form-group row  mt-2 justify-content-center">
+            <div class="form-group row col-3 mt-2">
+                <label></label>
+                <button class="btn btn-info col-10" id="SaveStudent" data-bind="click: SaveStudent">Save</button>
+            </div>
+        </div>
+    </div>
+</form>
+
+
+@section Scripts{
+    <script src="/scripts/Student.js"></script>
+    <script src="/scripts/Student2.js"></script>
+}
+
+
+
