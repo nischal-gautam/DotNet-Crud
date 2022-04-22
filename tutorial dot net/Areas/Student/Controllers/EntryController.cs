@@ -22,5 +22,22 @@ namespace tutorial_dot_net.Areas.Student.Controllers
         {
             return _student.AddStudent(student);
         }
+        [HttpPost]
+        public JsonResponse GetAllStudents(int? ID = null)
+        {
+            return _student.GetAllStudents(ID);
+        }
+
+        [HttpPost]
+        public JsonResponse UpdateStudent(Student_Entity.Student updatedStudent)
+        {
+            return _student.UpdateStudent(updatedStudent);
+        }
+
+        [HttpPost]
+        public JsonResponse DeleteStudent(int ID)
+        {
+            return _student.DeleteStudent(ID);  
+        }
     }
 }
