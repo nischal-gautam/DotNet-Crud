@@ -96,20 +96,22 @@ namespace Student_Repository
                     DynamicParameters parameters = new DynamicParameters();
                     parameters.Add(@"ID", ID);
                     Student student = connection.Query<Student>(sql: "GET_ALL_STUDENTS", param: parameters, transaction: null, commandType: System.Data.CommandType.StoredProcedure).FirstOrDefault();
-                    if (jsonResponse.IsSuccess) {
-                        transaction.Commit();
+                    if (student != null)
+                    {
+                        jsonResponse.IsSuccess = true;
+                        jsonResponse.Message = "User Deleted ";
+                        jsonResponse.ResponseData = student;
                     }
-                    else { 
-                        transaction.Rollback();
-
-                }
+                    else
+                    {
+                        jsonResponse.Message = "No Records Found";
+                    }
                 }
                 catch (Exception ex)
-            {
-                jsonResponse.Message = ex.Message;
-
+                {
+                    jsonResponse.Message = ex.Message;
+                }
             }
-        }
             return jsonResponse;
         }
 
