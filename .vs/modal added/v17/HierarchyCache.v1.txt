@@ -1,0 +1,248 @@
+﻿++Solution 'modal added' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:modal added.sln
+++Student
+i:{00000000-0000-0000-0000-000000000000}:Student
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\areas\student\
+++Student_Entity
+i:{be3cd3f2-a087-4ff9-a34c-febb5c64b96f}:Student_Entity
+i:{62b973ef-18bf-4e39-8d90-2b41aeee85b9}:Student_Entity
+i:{7dd8849c-25cf-4a08-8114-02fb66029b64}:c:\dot net projects\tutorial dot net\student_entity\student_entity.csproj
+i:{db85398f-ded8-4bab-a6cb-981144c66702}:c:\dot net projects\tutorial dot net\student_entity\student_entity.csproj
+++Dependencies
+i:{0417e6bd-08f3-4b4c-8a0a-57b6ec3d4b6d}:>196
+i:{7dd8849c-25cf-4a08-8114-02fb66029b64}:>198
+i:{db85398f-ded8-4bab-a6cb-981144c66702}:>197
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:>751
+++JsonResponse.cs
+i:{0417e6bd-08f3-4b4c-8a0a-57b6ec3d4b6d}:c:\dot net projects\tutorial dot net\student_entity\jsonresponse.cs
+++ReadConfig.cs
+i:{0417e6bd-08f3-4b4c-8a0a-57b6ec3d4b6d}:c:\dot net projects\tutorial dot net\student_entity\readconfig.cs
+++Student.cs
+i:{0417e6bd-08f3-4b4c-8a0a-57b6ec3d4b6d}:c:\dot net projects\tutorial dot net\student_entity\student.cs
+++Frameworks
+i:{0417e6bd-08f3-4b4c-8a0a-57b6ec3d4b6d}:frameworks
+i:{7dd8849c-25cf-4a08-8114-02fb66029b64}:frameworks
+i:{db85398f-ded8-4bab-a6cb-981144c66702}:frameworks
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:frameworks
+++Microsoft.NETCore.App
+i:{0417e6bd-08f3-4b4c-8a0a-57b6ec3d4b6d}:c:\dot net projects\tutorial dot net\student_entity\microsoft.netcore.app
+i:{7dd8849c-25cf-4a08-8114-02fb66029b64}:c:\dot net projects\tutorial dot net\student_interface\microsoft.netcore.app
+i:{db85398f-ded8-4bab-a6cb-981144c66702}:c:\dot net projects\tutorial dot net\student_repository\microsoft.netcore.app
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\microsoft.netcore.app
+++Student_Interface
+i:{be3cd3f2-a087-4ff9-a34c-febb5c64b96f}:Student_Interface
+i:{4673a3c9-b545-463f-909d-d7d749e3030e}:Student_Interface
+i:{db85398f-ded8-4bab-a6cb-981144c66702}:c:\dot net projects\tutorial dot net\student_interface\student_interface.csproj
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\student_interface\student_interface.csproj
+++IStudent.cs
+i:{7dd8849c-25cf-4a08-8114-02fb66029b64}:c:\dot net projects\tutorial dot net\student_interface\istudent.cs
+++Projects
+i:{7dd8849c-25cf-4a08-8114-02fb66029b64}:projects
+i:{db85398f-ded8-4bab-a6cb-981144c66702}:projects
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:projects
+++Student_Repository
+i:{be3cd3f2-a087-4ff9-a34c-febb5c64b96f}:Student_Repository
+i:{8a761155-0ec3-47f4-a070-971309749980}:Student_Repository
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\student_repository\student_repository.csproj
+++StudentRepo.cs
+i:{db85398f-ded8-4bab-a6cb-981144c66702}:c:\dot net projects\tutorial dot net\student_repository\studentrepo.cs
+++Packages
+i:{db85398f-ded8-4bab-a6cb-981144c66702}:packages
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:packages
+++Dapper (2.0.123)
+i:{db85398f-ded8-4bab-a6cb-981144c66702}:>759
+++Microsoft.Extensions.Options (3.1.22)
+i:{db85398f-ded8-4bab-a6cb-981144c66702}:>761
+++System.Data.SqlClient (4.8.3)
+i:{db85398f-ded8-4bab-a6cb-981144c66702}:>760
+++tutorial dot net
+i:{00000000-0000-0000-0000-000000000000}:tutorial dot net
+++Connected Services 
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:>752
+++Properties
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\properties\
+++wwwroot
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\
+++Areas
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\areas\
+++Shared
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\areas\shared\
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\views\shared\
+++Controllers
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\areas\student\controllers\
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\controllers\
+++Data
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\areas\student\data\
+++Models
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\areas\student\models\
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\models\
+++Views
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\areas\student\views\
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\views\
+++Entry
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\areas\student\views\entry\
+++Home
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\views\home\
+++_ViewImports.cshtml
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\views\_viewstart.cshtml
+++appsettings.json
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\appsettings.json
+++Program.cs
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\program.cs
+++ScaffoldingReadMe.txt
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\scaffoldingreadme.txt
+++Startup.cs
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\startup.cs
+++No service dependencies discovered
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:>753
+++Analyzers
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:analyzers
+++launchSettings.json
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\properties\launchsettings.json
+++css
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\css\
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\js\
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\js\
+++knockout
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\knockout\
+++lib
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\
+++Scripts
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\scripts\
+++favicon.ico
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\favicon.ico
+++_Layout.cshtml
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\areas\shared\_layout.cshtml
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\views\shared\_layout.cshtml
+++EntryController.cs
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\areas\student\controllers\entrycontroller.cs
+++Index.cshtml
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\areas\student\views\entry\index.cshtml
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\views\home\index.cshtml
+++HomeController.cs
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\controllers\homecontroller.cs
+++ErrorViewModel.cs
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\models\errorviewmodel.cs
+++Privacy.cshtml
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\views\home\privacy.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\views\shared\error.cshtml
+++appsettings.Development.json
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\users\admin\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\users\admin\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\microsoft.aspnetcore.app
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (3.1.5)
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:>777
+++site.css
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\css\site.css
+++site.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\js\site.js
+++knockout.validation.min.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\knockout\knockout.validation.min.js
+++knockout-3.5.1.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\knockout\knockout-3.5.1.js
+++knockout-bindings.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\knockout\knockout-bindings.js
+++knockout-components.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\knockout\knockout-components.js
+++Validate.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\knockout\validate.js
+++Validation.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\knockout\validation.js
+++bootstrap
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\
+++jquery
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\jquery\
+++jquery-validation
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\jquery-validation-unobtrusive\
+++Student.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\scripts\student.js
+++Student2.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\scripts\student2.js
+++dist
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\jquery\dist\
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\jquery\license.txt
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{556b3dda-b3a3-4eaf-b453-9260736200fd}:c:\dot net projects\tutorial dot net\tutorial dot net\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
