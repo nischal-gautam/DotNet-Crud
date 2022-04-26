@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7dd8849c-25cf-4a08-8114-02fb66029b64": {
+      "ProjectGuid": "7dd8849c-25cf-4a08-8114-02fb66029b64",
+      "DisplayName": "Student_Interface",
+      "ColorIndex": 0
+    },
+    "556b3dda-b3a3-4eaf-b453-9260736200fd": {
+      "ProjectGuid": "556b3dda-b3a3-4eaf-b453-9260736200fd",
+      "DisplayName": "tutorial dot net",
+      "ColorIndex": 1
+    },
+    "db85398f-ded8-4bab-a6cb-981144c66702": {
+      "ProjectGuid": "db85398f-ded8-4bab-a6cb-981144c66702",
+      "DisplayName": "Student_Repository",
+      "ColorIndex": 2
+    },
+    "0417e6bd-08f3-4b4c-8a0a-57b6ec3d4b6d": {
+      "ProjectGuid": "0417e6bd-08f3-4b4c-8a0a-57b6ec3d4b6d",
+      "DisplayName": "Student_Entity",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

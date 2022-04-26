@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HlQl9h+8n6NT5Ujs/r904kQSBaIrrKATEBwnHVK3QoIs8G19hvQbXCxNiaCvAR/aZUE8TqY5fKo9fMxo523ywQ==",
+  "dgSpecHash": "ghYtWyi3PM1pTkCtd38Lj/dl0nh81ULJvGfQiVTkMV67sGyQ6ZAqLznb0GoWP7YgixvEuoUOBZn/hspacBKIbg==",
   "success": true,
-  "projectFilePath": "C:\\Dot net projects\\tutorial dot net\\Student_Entity\\Student_Entity.csproj",
+  "projectFilePath": "D:\\.net\\DotNet-Crud\\Student_Entity\\Student_Entity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

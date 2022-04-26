@@ -8,3 +8,13 @@ C:\Dot net projects\tutorial dot net\Student_Entity\obj\Debug\netcoreapp3.1\Stud
 C:\Dot net projects\tutorial dot net\Student_Entity\obj\Debug\netcoreapp3.1\Student_Entity.csproj.CoreCompileInputs.cache
 C:\Dot net projects\tutorial dot net\Student_Entity\obj\Debug\netcoreapp3.1\Student_Entity.dll
 C:\Dot net projects\tutorial dot net\Student_Entity\obj\Debug\netcoreapp3.1\Student_Entity.pdb
+D:\.net\DotNet-Crud\Student_Entity\bin\Debug\netcoreapp3.1\Student_Entity.deps.json
+D:\.net\DotNet-Crud\Student_Entity\bin\Debug\netcoreapp3.1\Student_Entity.dll
+D:\.net\DotNet-Crud\Student_Entity\bin\Debug\netcoreapp3.1\Student_Entity.pdb
+D:\.net\DotNet-Crud\Student_Entity\obj\Debug\netcoreapp3.1\Student_Entity.csproj.AssemblyReference.cache
+D:\.net\DotNet-Crud\Student_Entity\obj\Debug\netcoreapp3.1\Student_Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\DotNet-Crud\Student_Entity\obj\Debug\netcoreapp3.1\Student_Entity.AssemblyInfoInputs.cache
+D:\.net\DotNet-Crud\Student_Entity\obj\Debug\netcoreapp3.1\Student_Entity.AssemblyInfo.cs
+D:\.net\DotNet-Crud\Student_Entity\obj\Debug\netcoreapp3.1\Student_Entity.csproj.CoreCompileInputs.cache
+D:\.net\DotNet-Crud\Student_Entity\obj\Debug\netcoreapp3.1\Student_Entity.dll
+D:\.net\DotNet-Crud\Student_Entity\obj\Debug\netcoreapp3.1\Student_Entity.pdb

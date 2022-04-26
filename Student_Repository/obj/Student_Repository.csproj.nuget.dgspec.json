@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dot net projects\\tutorial dot net\\Student_Repository\\Student_Repository.csproj": {}
+    "D:\\.net\\DotNet-Crud\\Student_Repository\\Student_Repository.csproj": {}
   },
   "projects": {
-    "C:\\Dot net projects\\tutorial dot net\\Student_Entity\\Student_Entity.csproj": {
+    "D:\\.net\\DotNet-Crud\\Student_Entity\\Student_Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dot net projects\\tutorial dot net\\Student_Entity\\Student_Entity.csproj",
+        "projectUniqueName": "D:\\.net\\DotNet-Crud\\Student_Entity\\Student_Entity.csproj",
         "projectName": "Student_Entity",
-        "projectPath": "C:\\Dot net projects\\tutorial dot net\\Student_Entity\\Student_Entity.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Dot net projects\\tutorial dot net\\Student_Entity\\obj\\",
+        "projectPath": "D:\\.net\\DotNet-Crud\\Student_Entity\\Student_Entity.csproj",
+        "packagesPath": "C:\\Users\\grosh\\.nuget\\packages\\",
+        "outputPath": "D:\\.net\\DotNet-Crud\\Student_Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\grosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,24 +58,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Dot net projects\\tutorial dot net\\Student_Interface\\Student_Interface.csproj": {
+    "D:\\.net\\DotNet-Crud\\Student_Interface\\Student_Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dot net projects\\tutorial dot net\\Student_Interface\\Student_Interface.csproj",
+        "projectUniqueName": "D:\\.net\\DotNet-Crud\\Student_Interface\\Student_Interface.csproj",
         "projectName": "Student_Interface",
-        "projectPath": "C:\\Dot net projects\\tutorial dot net\\Student_Interface\\Student_Interface.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Dot net projects\\tutorial dot net\\Student_Interface\\obj\\",
+        "projectPath": "D:\\.net\\DotNet-Crud\\Student_Interface\\Student_Interface.csproj",
+        "packagesPath": "C:\\Users\\grosh\\.nuget\\packages\\",
+        "outputPath": "D:\\.net\\DotNet-Crud\\Student_Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\grosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Dot net projects\\tutorial dot net\\Student_Entity\\Student_Entity.csproj": {
-                "projectPath": "C:\\Dot net projects\\tutorial dot net\\Student_Entity\\Student_Entity.csproj"
+              "D:\\.net\\DotNet-Crud\\Student_Entity\\Student_Entity.csproj": {
+                "projectPath": "D:\\.net\\DotNet-Crud\\Student_Entity\\Student_Entity.csproj"
               }
             }
           }
@@ -118,24 +120,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Dot net projects\\tutorial dot net\\Student_Repository\\Student_Repository.csproj": {
+    "D:\\.net\\DotNet-Crud\\Student_Repository\\Student_Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dot net projects\\tutorial dot net\\Student_Repository\\Student_Repository.csproj",
+        "projectUniqueName": "D:\\.net\\DotNet-Crud\\Student_Repository\\Student_Repository.csproj",
         "projectName": "Student_Repository",
-        "projectPath": "C:\\Dot net projects\\tutorial dot net\\Student_Repository\\Student_Repository.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Dot net projects\\tutorial dot net\\Student_Repository\\obj\\",
+        "projectPath": "D:\\.net\\DotNet-Crud\\Student_Repository\\Student_Repository.csproj",
+        "packagesPath": "C:\\Users\\grosh\\.nuget\\packages\\",
+        "outputPath": "D:\\.net\\DotNet-Crud\\Student_Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\grosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -149,11 +152,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Dot net projects\\tutorial dot net\\Student_Entity\\Student_Entity.csproj": {
-                "projectPath": "C:\\Dot net projects\\tutorial dot net\\Student_Entity\\Student_Entity.csproj"
+              "D:\\.net\\DotNet-Crud\\Student_Entity\\Student_Entity.csproj": {
+                "projectPath": "D:\\.net\\DotNet-Crud\\Student_Entity\\Student_Entity.csproj"
               },
-              "C:\\Dot net projects\\tutorial dot net\\Student_Interface\\Student_Interface.csproj": {
-                "projectPath": "C:\\Dot net projects\\tutorial dot net\\Student_Interface\\Student_Interface.csproj"
+              "D:\\.net\\DotNet-Crud\\Student_Interface\\Student_Interface.csproj": {
+                "projectPath": "D:\\.net\\DotNet-Crud\\Student_Interface\\Student_Interface.csproj"
               }
             }
           }
@@ -196,7 +199,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -133,6 +133,37 @@ var StudentViewModal = function () {
         })
 
     }
+
+    self.UpdateStudents = function () {
+
+        var Student = {
+            'ID': self.StudentIDModal(),
+            'StudentName': self.StudentNameModal(),
+            'StudentClass': self.StudentClassModal(),
+            'StudentAge': self.StudentAgeModal(),
+            'StudentRoll': self.StudentRollModal()
+        }
+
+        $.ajax({
+            type: "Post",
+            url: '/Student/Entry/UpdateStudent',
+            data: { "updatedStudent": Student },
+            datatype: "json",
+            success: function (result) {
+
+                alert(result.message)
+
+            },
+            error: function (error) {
+                alert('error', error.message)
+            }, complete: function () {
+                self.ClearControls()
+            }
+
+        })
+     
+
+    }
     self.DeleteStudent = function () {
 
 

@@ -11,3 +11,16 @@ C:\Dot net projects\tutorial dot net\Student_Interface\obj\Debug\netcoreapp3.1\S
 C:\Dot net projects\tutorial dot net\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.csproj.CopyComplete
 C:\Dot net projects\tutorial dot net\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.dll
 C:\Dot net projects\tutorial dot net\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.pdb
+D:\.net\DotNet-Crud\Student_Interface\bin\Debug\netcoreapp3.1\Student_Interface.deps.json
+D:\.net\DotNet-Crud\Student_Interface\bin\Debug\netcoreapp3.1\Student_Interface.dll
+D:\.net\DotNet-Crud\Student_Interface\bin\Debug\netcoreapp3.1\Student_Interface.pdb
+D:\.net\DotNet-Crud\Student_Interface\bin\Debug\netcoreapp3.1\Student_Entity.dll
+D:\.net\DotNet-Crud\Student_Interface\bin\Debug\netcoreapp3.1\Student_Entity.pdb
+D:\.net\DotNet-Crud\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.csproj.AssemblyReference.cache
+D:\.net\DotNet-Crud\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\DotNet-Crud\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.AssemblyInfoInputs.cache
+D:\.net\DotNet-Crud\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.AssemblyInfo.cs
+D:\.net\DotNet-Crud\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.csproj.CoreCompileInputs.cache
+D:\.net\DotNet-Crud\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.csproj.CopyComplete
+D:\.net\DotNet-Crud\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.dll
+D:\.net\DotNet-Crud\Student_Interface\obj\Debug\netcoreapp3.1\Student_Interface.pdb

@@ -29,7 +29,7 @@ namespace tutorial_dot_net
         {
             services.AddRazorPages();
 
-            services.AddControllersWithViews();
+            services.AddControllersWithViews().AddRazorRuntimeCompilation();
             services.Configure<ReadConfig>(Configuration.GetSection("ConnectionStrings"));
             services.AddTransient<IStudent, StudentRepo>(); 
             services.AddMvc(option =>

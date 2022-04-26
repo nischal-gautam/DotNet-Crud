@@ -13,3 +13,18 @@ C:\Dot net projects\tutorial dot net\Student_Repository\obj\Debug\netcoreapp3.1\
 C:\Dot net projects\tutorial dot net\Student_Repository\obj\Debug\netcoreapp3.1\Student_Repository.csproj.CopyComplete
 C:\Dot net projects\tutorial dot net\Student_Repository\obj\Debug\netcoreapp3.1\Student_Repository.dll
 C:\Dot net projects\tutorial dot net\Student_Repository\obj\Debug\netcoreapp3.1\Student_Repository.pdb
+D:\.net\DotNet-Crud\Student_Repository\bin\Debug\netcoreapp3.1\Student_Repository.deps.json
+D:\.net\DotNet-Crud\Student_Repository\bin\Debug\netcoreapp3.1\Student_Repository.dll
+D:\.net\DotNet-Crud\Student_Repository\bin\Debug\netcoreapp3.1\Student_Repository.pdb
+D:\.net\DotNet-Crud\Student_Repository\bin\Debug\netcoreapp3.1\Student_Entity.dll
+D:\.net\DotNet-Crud\Student_Repository\bin\Debug\netcoreapp3.1\Student_Interface.dll
+D:\.net\DotNet-Crud\Student_Repository\bin\Debug\netcoreapp3.1\Student_Entity.pdb
+D:\.net\DotNet-Crud\Student_Repository\bin\Debug\netcoreapp3.1\Student_Interface.pdb
+D:\.net\DotNet-Crud\Student_Repository\obj\Debug\netcoreapp3.1\Student_Repository.csproj.AssemblyReference.cache
+D:\.net\DotNet-Crud\Student_Repository\obj\Debug\netcoreapp3.1\Student_Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\DotNet-Crud\Student_Repository\obj\Debug\netcoreapp3.1\Student_Repository.AssemblyInfoInputs.cache
+D:\.net\DotNet-Crud\Student_Repository\obj\Debug\netcoreapp3.1\Student_Repository.AssemblyInfo.cs
+D:\.net\DotNet-Crud\Student_Repository\obj\Debug\netcoreapp3.1\Student_Repository.csproj.CoreCompileInputs.cache
+D:\.net\DotNet-Crud\Student_Repository\obj\Debug\netcoreapp3.1\Student_Repository.csproj.CopyComplete
+D:\.net\DotNet-Crud\Student_Repository\obj\Debug\netcoreapp3.1\Student_Repository.dll
+D:\.net\DotNet-Crud\Student_Repository\obj\Debug\netcoreapp3.1\Student_Repository.pdb
